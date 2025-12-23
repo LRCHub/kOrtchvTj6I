@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "南風",
+  "base_artist": "レミオロメン",
+  "createdAt": "2025-12-23T02:39:37.282175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "南風",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/01_南風_レミオロメン.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "南風",
+      "artist": "下川みくに",
+      "has_synced": true,
+      "path": "select/02_南風_下川みくに.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "南風",
+      "artist": "Remioromen",
+      "has_synced": false,
+      "path": "select/03_南風_Remioromen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "南風 - MINAMIKAZE",
+      "artist": "Remioromen",
+      "has_synced": false,
+      "path": "select/04_南風_-_MINAMIKAZE_Remioromen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "南風",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/05_南風_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "南風 (Rerecorded)",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/06_南風_(Rerecorded)_HY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "南風",
+      "artist": "譚詠麟",
+      "has_synced": true,
+      "path": "select/07_南風_譚詠麟.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "南風",
+      "artist": "Mikuni Shimokawa",
+      "has_synced": true,
+      "path": "select/08_南風_Mikuni_Shimokawa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "南風",
+      "artist": "下川みくに",
+      "has_synced": true,
+      "path": "select/09_南風_下川みくに.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "南風 (instrumental)",
+      "artist": "下川みくに",
+      "has_synced": true,
+      "path": "select/10_南風_(instrumental)_下川みくに.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "南風(粵)",
+      "artist": "谭咏麟",
+      "has_synced": true,
+      "path": "select/11_南風(粵)_谭咏麟.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "南風 (shibuya edit) (オープニングテーマ)",
+      "artist": "下川みくに",
+      "has_synced": false,
+      "path": "select/12_南風_(shibuya_edit)_(オープニングテーマ)_下川みくに.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "南風 (Rerecorded 2018)",
+      "artist": "Hy",
+      "has_synced": true,
+      "path": "select/13_南風_(Rerecorded_2018)_Hy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "南風",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_南風_レミオロメン.txt"
+    }
+  ]
+}
